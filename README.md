@@ -4,4 +4,4 @@ The current HALO software lacks the custom based visualisation tool of multiple 
 
 We developed a visualisation approach to  perform instant mass review in full screen mode as shown in the image bellow.
 
-![imgwall](https://github.com/AzmHmd/ImageWall/assets/15710310/11aa6232-56f5-4cf4-a772-4db7d4746cdc)
+![imgwall](https://github.com/AzmHmd/ImageWall/assets/15710310/da48d9cb-275f-45a7-a98e-e7001f142b8a)
